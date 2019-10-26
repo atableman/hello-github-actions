@@ -8,8 +8,8 @@ sh -c "echo Hello world my name is $MY_NAME"
 sh -c "echo ----------------PIP numpy--------------------"
 pip install numpy
 
-sh -c "echo ----------------PIP Osiris tools--------------------"
-pip install git+https://atableman:3e8ed89be169e3a780d85d6e26d1b1bf3c890f5b@github.com/GoLP-IST/osiris-tools.git
+sh -c "echo ----------------PIP Osiris tools NEW --------------------"
+pip install git+https://atableman:a6edc0aa4159076fe96b35a508e86b7cdbe9c45f@github.com/GoLP-IST/osiris-tools.git
 python ./action-a/hithere.py
 
 #

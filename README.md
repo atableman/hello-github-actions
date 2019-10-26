@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/atableman/hello-github-actions/workflows/A workflow for my Hello World/badge.svg)](https://github.com/{atableman}/{hello-github-actions}/actions)
+[![Actions Status](https://github.com/atableman/hello-github-actions/workflows/A%20workflow%20for%20my%20Hello%20World/badge.svg)](https://github.com/{atableman}/{hello-github-actions}/actions)
 
 ## Welcome to "Hello World" with GitHub Actions
 

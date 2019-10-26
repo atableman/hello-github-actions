@@ -6,11 +6,6 @@ jobs:
     runs-on: ubuntu-latest    
     steps:
     - uses: actions/checkout@master
-    - uses: actions/checkout@v1
-      with: 
-        ref: master
-        repository: GoLP-IST/osiris-tools
-        token: ${{ secrets.OS_TOOLS }}
     - uses: ./action-a
       env:
         MY_NAME: "Mona"

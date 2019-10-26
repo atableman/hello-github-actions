@@ -9,7 +9,7 @@ sh -c "echo ----------------PIP numpy--------------------"
 pip install numpy
 
 sh -c "echo ----------------PIP Osiris tools--------------------"
-pip install git+https://github.com/GoLP-IST/osiris-tools.git
+pip install git+https://atableman:3e8ed89be169e3a780d85d6e26d1b1bf3c890f5b@github.com/GoLP-IST/osiris-tools.git
 python ./action-a/hithere.py
 
 #

@@ -1,4 +1,8 @@
 #!/bin/sh -l
 
 sh -c "echo Hello world my name is $MY_NAME"
-python hithere.py
+sh -c "ls -la $GITHUB_WORKSPACE"
+sh -c "echo ------------------------------------"
+sh -c "ls -lar $GITHUB_WORKSPACE"
+python ./action-a/hithere.py
+
